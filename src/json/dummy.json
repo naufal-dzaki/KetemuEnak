@@ -1,0 +1,93 @@
+{
+    "event": 
+        [
+        {
+            "id": 1,
+            "img": "https://www.flowbite-react.com/images/blog/image-1.jpg",
+            "title": "this is the title",
+            "isApplied": false,
+            "apllyBefore": "2023-10-29T14:30:00Z",
+            "eventDate": "2023-10-30T14:30:00Z",
+            "location": "Summarcon Mall Serpong",
+            "desc": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum maiores, amet praesentium asperiores laboriosam aut, neque deleniti inventore itaque alias obcaecati vel voluptates quis magni nam, atque blanditiis. Reprehenderit, facere!"
+        },
+        {
+            "id": 2,
+            "img": "https://www.flowbite-react.com/images/blog/image-1.jpg",
+            "title": "this is the title",
+            "isApplied": false,
+            "apllyBefore": "2023-10-29T14:30:00Z",
+            "eventDate": "2023-10-30T14:30:00Z",
+            "location": "Summarcon Mall Serpong",
+            "desc": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum maiores, amet praesentium asperiores laboriosam aut, neque deleniti inventore itaque alias obcaecati vel voluptates quis magni nam, atque blanditiis. Reprehenderit, facere!"
+        },
+        {
+            "id": 3,
+            "img": "https://www.flowbite-react.com/images/blog/image-1.jpg",
+            "title": "this is the title",
+            "isApplied": false,
+            "apllyBefore": "2023-10-29T14:30:00Z",
+            "eventDate": "2023-10-30T14:30:00Z",
+            "location": "Summarcon Mall Serpong",
+            "desc": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum maiores, amet praesentium asperiores laboriosam aut, neque deleniti inventore itaque alias obcaecati vel voluptates quis magni nam, atque blanditiis. Reprehenderit, facere!"
+        },
+        {
+            "id": 4,
+            "img": "https://www.flowbite-react.com/images/blog/image-1.jpg",
+            "title": "this is the title",
+            "isApplied": false,
+            "apllyBefore": "2023-10-29T14:30:00Z",
+            "eventDate": "2023-10-30T14:30:00Z",
+            "location": "Summarcon Mall Serpong",
+            "desc": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum maiores, amet praesentium asperiores laboriosam aut, neque deleniti inventore itaque alias obcaecati vel voluptates quis magni nam, atque blanditiis. Reprehenderit, facere!"
+    },
+        {
+            "id": 5,
+            "img": "https://www.flowbite-react.com/images/blog/image-1.jpg",
+            "title": "this is the title",
+            "isApplied": true,
+            "apllyBefore": "2023-10-29T14:30:00Z",
+            "eventDate": "2023-10-30T14:30:00Z",
+            "location": "Summarcon Mall Serpong",
+            "desc": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum maiores, amet praesentium asperiores laboriosam aut, neque deleniti inventore itaque alias obcaecati vel voluptates quis magni nam, atque blanditiis. Reprehenderit, facere!"
+    },
+        {
+            "id": 6,
+            "img": "https://www.flowbite-react.com/images/blog/image-1.jpg",
+            "title": "this is the title",
+            "isApplied": true,
+            "apllyBefore": "2023-10-29T14:30:00Z",
+            "eventDate": "2023-10-30T14:30:00Z",
+            "location": "Summarcon Mall Serpong",
+            "desc": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum maiores, amet praesentium asperiores laboriosam aut, neque deleniti inventore itaque alias obcaecati vel voluptates quis magni nam, atque blanditiis. Reprehenderit, facere!"
+    },
+        {
+            "id": 7,
+            "img": "https://www.flowbite-react.com/images/blog/image-1.jpg",
+            "title": "this is the title",
+            "isApplied": true,
+            "apllyBefore": "2023-10-29T14:30:00Z",
+            "eventDate": "2023-10-30T14:30:00Z",
+            "location": "Summarcon Mall Serpong",
+            "desc": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum maiores, amet praesentium asperiores laboriosam aut, neque deleniti inventore itaque alias obcaecati vel voluptates quis magni nam, atque blanditiis. Reprehenderit, facere!"
+    },
+        {
+            "id": 8,
+            "img": "https://www.flowbite-react.com/images/blog/image-1.jpg",
+            "title": "this is the title",
+            "isApplied": true,
+            "apllyBefore": "2023-10-29T14:30:00Z",
+            "eventDate": "2023-10-30T14:30:00Z",
+            "location": "Summarcon Mall Serpong",
+            "desc": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum maiores, amet praesentium asperiores laboriosam aut, neque deleniti inventore itaque alias obcaecati vel voluptates quis magni nam, atque blanditiis. Reprehenderit, facere!"
+    }
+    ],
+    "seller": {
+        "id": 1,
+        "img": "https://www.flowbite-react.com/images/blog/image-1.jpg",
+        "avatar": "https://www.flowbite-react.com/images/people/profile-picture-5.jpg",
+        "name": "Ayam Geprek Mercon",
+        "city": "Tanggerang",
+        "desc": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum maiores, amet praesentium asperiores laboriosam aut, neque deleniti inventore itaque alias obcaecati vel voluptates quis magni nam, atque blanditiis. Reprehenderit, facere!"
+    }
+}
